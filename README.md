@@ -1,5 +1,8 @@
 # Celestia-Performance-Analyze
-![settings-svgrepo-com](https://github.com/huseyin33/Celestia-Performance-Analyze/assets/72567591/9df6d4b1-2220-4d49-8e0d-5fc92aeed2be)
+![874888_analytics_512x512](https://github.com/huseyin33/Celestia-Performance-Analyze/assets/72567591/88ca27f1-d7f6-4e7a-9549-795b6d608c30)
+
+
+
 
 Exploring the Impact of a Light Node on Server Performance: A Golang Case Study
 # How To Run
