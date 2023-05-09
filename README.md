@@ -10,7 +10,7 @@ Exploring the Impact of a Light Node on Server Performance: A Golang Case Study
 that helps to install all the requirement packages
 
 # Bandwidth Test
-`apt install speedtest-cli` `and speedtest-cli`
+`apt install speedtest-cli` and `speedtest-cli`
 
 ## Introduction
 In today's world, servers play a critical role in running a wide range of applications, from simple websites to complex machine learning models. Understanding server performance and resource utilization is vital for optimizing your applications and ensuring a smooth user experience.
